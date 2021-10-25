@@ -25,6 +25,8 @@ See [./examples/keyboard](./examples/keyboard)
 
 ![](./tinykb.gif)
 
+![](./wioterminal.jpg)
+
 ## Author
 
 sago35 - <sago35@gmail.com>
