@@ -21,7 +21,7 @@ var (
 )
 
 func init() {
-	fontHeight = int16(tinyfont.GetGlyph(keyboardFont, '0').Height)
+	fontHeight = int16(tinyfont.GetGlyph(keyboardFont, '0').Info().Height)
 }
 
 // Key is the type that corresponds to each button on the keyboard. Key
